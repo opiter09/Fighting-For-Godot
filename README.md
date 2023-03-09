@@ -3,3 +3,5 @@ This is just a Fighter Maker 2002 game, uploaded for posterity. It has an "Ace A
 extremely thorough animation galleries.
 
 Current Version: 1.5.3
+
+To download, press the green "Code" button, then click "Download ZIP."
